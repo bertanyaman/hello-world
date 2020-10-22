@@ -1,22 +1,25 @@
-[
-  {
-    "value": "1",
-    "text": "Bimser Çözüm"
-  },
-  {
-    "value": "2",
-    "text": "Microsoft"
-  },
-  {
-    "value": "3",
-    "text": "Google"
-  },
-  {
-    "value": "4",
-    "text": "Amazon"
-  },
-  {
-    "value": "5",
-    "text": "Alibaba"
-  }
-]
+{
+    "resourceTypes": [
+        {
+            "id": 1,
+            "name": {
+              "tr-TR": "Kaynak 1",
+              "en-US": "Resource 1"
+            }
+        },
+        {
+            "id": 2,
+            "name": {
+              "tr-TR": "Kaynak 2",
+              "en-US": "Resource 2"
+            }
+        },
+        {
+            "id": 3,
+            "name": {
+              "tr-TR": "Kaynak 3",
+              "en-US": "Resource 3"
+            }
+        },
+    ]
+}
