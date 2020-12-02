@@ -105,6 +105,18 @@
                     "title": "Cuma Öğleden Sonra",
                     "startDate": "2020-12-04T09:30:00.000Z",
                     "endDate": "2020-12-04T15:00:00.000Z"
+                },
+                {
+                    "id": 11,
+                    "title": "İlk Hafta",
+                    "startDate": "2020-11-30T05:30:00.000Z",
+                    "endDate": "2020-12-04T15:00:00.000Z"
+                },
+                {
+                    "id": 11,
+                    "title": "Tüm Ay",
+                    "startDate": "2020-11-30T05:30:00.000Z",
+                    "endDate": "2020-12-31T15:00:00.000Z"
                 }
             ],
         "success": true
