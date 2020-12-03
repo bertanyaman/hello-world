@@ -44,6 +44,96 @@
             ],
         "success": true
     },
+    "resourceTypes2":{
+        "result":[
+            {
+                "id": 1,
+                "name": {
+                    "tr-TR": "Yetkinlik 1",
+                    "en-EN": "Yetkinlik 1"
+                },
+                "description": {
+                    "tr-TR": "Yetkinlik 1",
+                    "en-EN": "Yetkinlik 1"
+                },
+                "competencyType": 1,
+                "parentId": null,
+                "competencyLevelId": 1,
+                "orderNo": 1,
+                "competencyLevel": {
+                    "id": 1,
+                    "name": {
+                        "tr-TR": "Yetkinlik Seviyesi 1",
+                        "en-EN": "Yetkinlik Seviyesi 1"
+                    },
+                    "description": {
+                        "tr-TR": "Yetkinlik Seviyesi 1",
+                        "en-EN": "Yetkinlik Seviyesi 1"
+                    },
+                    "orderNo": 1,
+                    "competencyLevelItems": [
+                        {
+                            "id": 1,
+                            "name": {
+                                "tr-TR": "Yetkinlik seviyesi 1",
+                                "en-EN": "Yetkinlik seviyesi 1"
+                            },
+                            "description": {
+                                "tr-TR": "Yetkinlik seviyesi 1",
+                                "en-EN": "Yetkinlik seviyesi 1"
+                            },
+                            "orderNo": 0,
+                            "competencyLevelId": 1,
+                            "point": 10,
+                            "recordState": 0,
+                            "createdAt": "2020-12-03T00:00:00+03:00",
+                            "createdBy": 1,
+                            "modifiedAt": null,
+                            "modifiedBy": null,
+                            "deletedAt": null,
+                            "deletedBy": null
+                        },
+                        {
+                            "id": 2,
+                            "name": {
+                                "tr-TR": "Yetkinlik seviyesi 2",
+                                "en-EN": "Yetkinlik seviyesi 2"
+                            },
+                            "description": {
+                                "tr-TR": "Yetkinlik seviyesi 2",
+                                "en-EN": "Yetkinlik seviyesi 2"
+                            },
+                            "orderNo": 1,
+                            "competencyLevelId": 1,
+                            "point": 5,
+                            "recordState": 0,
+                            "createdAt": "2020-12-03T00:00:00+03:00",
+                            "createdBy": 1,
+                            "modifiedAt": null,
+                            "modifiedBy": null,
+                            "deletedAt": null,
+                            "deletedBy": null
+                        }
+                    ],
+                    "recordState": 0,
+                    "createdAt": "2020-12-03T00:00:00+03:00",
+                    "createdBy": 1,
+                    "modifiedAt": null,
+                    "modifiedBy": null,
+                    "deletedAt": null,
+                    "deletedBy": null
+                },
+                "recordState": 0,
+                "createdAt": "2020-12-03T00:00:00+03:00",
+                "createdBy": 1,
+                "modifiedAt": null,
+                "modifiedBy": null,
+                "deletedAt": null,
+                "deletedBy": null
+            }
+        ],
+        "success": true
+    },
     "sch": {
         "result": [
                 {
