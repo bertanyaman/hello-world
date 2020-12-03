@@ -1,50 +1,5 @@
 {
-    "resourceTypes": {
-        "result": [
-                {
-                    "id": 1,
-                    "name": {
-                        "tr-TR": "Kaynak Tipi 1",
-                        "en-US": "Resource TYpe 1"
-                    },
-                    "description": {
-                        "tr-TR": "KAynak Tipi Açıklama 1",
-                        "en-US": "Description 1"
-                    },
-                    "parentId": null,
-                    "orderNo": 1,
-                    "recordState": 0,
-                    "createdAt": "0001-01-01T00:00:00+00:00",
-                    "createdBy": 0,
-                    "modifiedAt": null,
-                    "modifiedBy": null,
-                    "deletedAt": null,
-                    "deletedBy": null
-                },
-                {
-                    "id": 2,
-                    "name": {
-                        "tr-TR": "kaynak tipi 2",
-                        "en-US": "resource type 2"
-                    },
-                    "description": {
-                        "tr-TR": "açıklama 2",
-                        "en-US": "desc 2"
-                    },
-                    "parentId": null,
-                    "orderNo": 2,
-                    "recordState": 0,
-                    "createdAt": "0001-01-01T00:00:00+00:00",
-                    "createdBy": 0,
-                    "modifiedAt": null,
-                    "modifiedBy": null,
-                    "deletedAt": null,
-                    "deletedBy": null
-                }
-            ],
-        "success": true
-    },
-    "resourceTypes2":{
+    "resourceTypes":{
         "result":[
             {
                 "id": 1,
@@ -87,11 +42,7 @@
                             "point": 10,
                             "recordState": 0,
                             "createdAt": "2020-12-03T00:00:00+03:00",
-                            "createdBy": 1,
-                            "modifiedAt": null,
-                            "modifiedBy": null,
-                            "deletedAt": null,
-                            "deletedBy": null
+                            "createdBy": 1
                         },
                         {
                             "id": 2,
@@ -108,28 +59,16 @@
                             "point": 5,
                             "recordState": 0,
                             "createdAt": "2020-12-03T00:00:00+03:00",
-                            "createdBy": 1,
-                            "modifiedAt": null,
-                            "modifiedBy": null,
-                            "deletedAt": null,
-                            "deletedBy": null
+                            "createdBy": 1
                         }
                     ],
                     "recordState": 0,
                     "createdAt": "2020-12-03T00:00:00+03:00",
-                    "createdBy": 1,
-                    "modifiedAt": null,
-                    "modifiedBy": null,
-                    "deletedAt": null,
-                    "deletedBy": null
+                    "createdBy": 1
                 },
                 "recordState": 0,
                 "createdAt": "2020-12-03T00:00:00+03:00",
-                "createdBy": 1,
-                "modifiedAt": null,
-                "modifiedBy": null,
-                "deletedAt": null,
-                "deletedBy": null
+                "createdBy": 1
             }
         ],
         "success": true
