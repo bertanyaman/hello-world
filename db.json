@@ -78,17 +78,22 @@
             {
                 "name": "node1",
                 "id": 1,
-                "children": [
-                    { "name": "child1", "id": 2 },
-                    { "name": "child2", "id": 3 }
-                ]
+                parentId: null
             },
             {
                 "name": "node2",
+                "id": 2,
+                parentId: 1
+            },
+            {
+                "name": "node3",
+                "id": 3,
+                parentId: 1
+            },
+            {
+                "name": "node4",
                 "id": 4,
-                "children": [
-                    { "name": "child3", "id": 5 }
-                ]
+                parentId: 1
             }
         ],
         "success":true
