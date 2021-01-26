@@ -78,22 +78,22 @@
             {
                 "name": "node1",
                 "id": 1,
-                parentId: null
+                "parentId": null
             },
             {
                 "name": "node2",
                 "id": 2,
-                parentId: 1
+                "parentId": 1
             },
             {
                 "name": "node3",
                 "id": 3,
-                parentId: 1
+                "parentId": 1
             },
             {
                 "name": "node4",
                 "id": 4,
-                parentId: 1
+                "parentId": 1
             }
         ],
         "success":true
