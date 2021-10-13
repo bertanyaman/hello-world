@@ -111,8 +111,7 @@
         }
 
       ],
-    "sch": {
-        "result": [
+    "sch": [
                 {
                     "id": 101,
                     "title": "Pazartesi Öğleden Önce",
@@ -212,7 +211,5 @@
                     "date": "1992-01-10T22:00:00.000Z",
                     "time": "04:04:07"
                 }
-            ],
-        "success": true
-    }
+            ]
 }
