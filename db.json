@@ -111,6 +111,24 @@
         }
 
       ],
+      "treeNested": [
+        {
+          "name": "node1",
+          "id": 1,
+          "items": [
+            {
+                "name": "node2",
+                "id": 2,
+                "items": [
+                    {
+                        "name": "node3",
+                        "id": 3
+                    }
+                ]
+            }
+         ]
+        }
+     ],
     "sch": [
                 {
                     "id": 101,
