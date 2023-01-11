@@ -77,7 +77,7 @@
         {
           "name": "node1",
           "id": 1,
-          "parentId": 111
+          "parentId": null
         },
         {
           "name": "node2",
