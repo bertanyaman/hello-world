@@ -5,11 +5,11 @@
                 "id": 1,
                 "name": {
                     "tr-TR": "Yetkinlik 1",
-                    "en-US": "en"
+                    "en-US": "Competence 1"
                 },
                 "description": {
-                    "tr-TR": "Yetkinlik 1",
-                    "en-US": "en"
+                    "tr-TR": "Yetkinlik 1 açıklama",
+                    "en-US": "Competence 1 description"
                 },
                 "competencyType": 1,
                 "parentId": null,
@@ -19,11 +19,11 @@
                     "id": 1,
                     "name": {
                         "tr-TR": "Yetkinlik Seviyesi 1",
-                        "en-US": "en"
+                        "en-US": "Competence Level 1"
                     },
                     "description": {
-                        "tr-TR": "Yetkinlik Seviyesi 1",
-                        "en-US": "en"
+                        "tr-TR": "Yetkinlik seviyesi 1 açıklama",
+                        "en-US": "Competence level 1 description"
                     },
                     "orderNo": 1,
                     "competencyLevelItems": [
@@ -31,11 +31,11 @@
                             "id": 1,
                             "name": {
                                 "tr-TR": "Yetkinlik seviyesi 1",
-                                "en-US": "en"
+                                "en-US": "Competence level 1"
                             },
                             "description": {
-                                "tr-TR": "Yetkinlik seviyesi 1",
-                                "en-US": "en"
+                                "tr-TR": "Yetkinlik seviyesi 1 açıklama",
+                                "en-US": "Competence level 1 description"
                             },
                             "orderNo": 0,
                             "competencyLevelId": 1,
@@ -47,12 +47,12 @@
                         {
                             "id": 2,
                             "name": {
-                                "tr-TR": "Yetkinlik seviyesi 2",
-                                "en-US": "en"
+                                "tr-TR": "Yetkinlik Seviyesi 2",
+                                "en-US": "Competence Level 2"
                             },
                             "description": {
-                                "tr-TR": "Yetkinlik seviyesi 2",
-                                "en-US": "en"
+                                "tr-TR": "Yetkinlik seviyesi 2 açıklama",
+                                "en-US": "Competence level 2 description"
                             },
                             "orderNo": 1,
                             "competencyLevelId": 1,
